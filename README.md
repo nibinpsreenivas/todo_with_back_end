@@ -36,7 +36,7 @@ Star⭐ the repo if you like what you see😉.
     <tr>
         <td><img src="./lib/assets/reg.jpg" alt="" width="200"></td>
         
-    <tr>
+    </tr>
 </table>
 
 
