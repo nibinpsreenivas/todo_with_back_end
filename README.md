@@ -34,9 +34,7 @@ Star⭐ the repo if you like what you see😉.
        
     </tr>
     <tr>
-        <td><img src="./pages/profile2.jpg" alt="" width="200"></td>
-        <td><img src="./pages/privacy.jpg" alt="" width="200"></td>
-          <td><img src="./pages/update1.jpg" alt="" width="200"></td>
+        <td><img src="./lib/assets/reg.jpg" alt="" width="200"></td>
         
     <tr>
 </table>
