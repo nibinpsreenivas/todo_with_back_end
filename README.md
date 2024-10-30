@@ -1,5 +1,5 @@
-# todo_with_back_end
- 
+# todo_with_back_end with flutter and backend firebase
+  
 Developed an application to manage todos with the following capabilities:
 1. Create a new project.
 2. Manage todos within a project (Add, Edit, Update, and Mark as complete).
