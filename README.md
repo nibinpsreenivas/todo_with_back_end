@@ -28,9 +28,8 @@ Star⭐ the repo if you like what you see😉.
     </tr>
 <table border>
     <tr>
-        <th style="text-align:center">Profile</th>
-      <th style="text-align:center">Privacy</th>
-        <th style="text-align:center">Update Profile</th>
+        <th style="text-align:center">REGISTER</th>
+     
        
     </tr>
     <tr>
