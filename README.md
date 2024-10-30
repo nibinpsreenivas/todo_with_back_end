@@ -12,30 +12,29 @@ Star⭐ the repo if you like what you see😉.
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/todo_with_back_end/refs/heads/master/lib/assets/Screenshot%202024-10-30%20212857.png)
 
 ## Screenshots
-    
+
 <table border>
     <tr>
         <th style="text-align:center">Home</th>
-      <th style="text-align:center">PROJECT</th>
+        <th style="text-align:center">PROJECT</th>
         <th style="text-align:center">EXPORT</th>
         <th style="text-align:center">LOGIN</th>
     </tr>
     <tr>
-        <td><img src="./lib/assets/home.jpg" alt="" width="220"></td>
-        <td><img src="./lib/project.jpg" alt="" width="220"></td>
-          <td><img src="./lib/assets/export.jpg" alt="" width="220"></td>
-         <td><img src="./lib/assets/login.jpg" alt="" width="220"></td>
+        <td><img src="./lib/assets/home.jpg" alt="Home" width="220"></td>
+        <td><img src="./lib/project.jpg" alt="Project" width="220"></td>
+        <td><img src="./lib/assets/export.jpg" alt="Export" width="220"></td>
+        <td><img src="./lib/assets/login.jpg" alt="Login" width="220"></td>
     </tr>
+</table>
+
 <table border>
     <tr>
         <th style="text-align:center">REGISTER</th>
-     
-       
     </tr>
     <tr>
-        <td><img src="./lib/assets/reg.jpg" alt="" width="200"></td>
-        
-    <tr>
+        <td><img src="./lib/assets/reg.jpg" alt="Register" width="200"></td>
+    </tr>
 </table>
 
 
