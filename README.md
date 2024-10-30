@@ -22,24 +22,20 @@ Star⭐ the repo if you like what you see😉.
     </tr>
     <tr>
         <td><img src="./lib/assets/home.jpg" alt="" width="220"></td>
-        <td><img src="./pages/Homescreen2.jpg" alt="" width="220"></td>
-          <td><img src="./pages/story.jpg" alt="" width="220"></td>
-         <td><img src="./pages/Search.jpg" alt="" width="220"></td>
+        <td><img src="./lib/project.jpg" alt="" width="220"></td>
+          <td><img src="./lib/assets/export.jpg" alt="" width="220"></td>
+         <td><img src="./lib/assets/login.jpg" alt="" width="220"></td>
     <tr>
 </table>
  
 <table border>
     <tr>
-        <th style="text-align:center">Landing page</th>
-      <th style="text-align:center">login page</th>
-        <th style="text-align:center">Photo Register</th>
-        <th style="text-align:center">Register page</th>
+        <th style="text-align:center">register</th>
+     
     </tr>
     <tr>
-        <td><img src="./pages/Loginblack.jpg" alt="" width="200"></td>
-        <td><img src="./pages/Login2black.jpg" alt="" width="200"></td>
-          <td><img src="./pages/Registerblack.jpg" alt="" width="200"></td>
-         <td><img src="./pages/Registerrr.jpg" alt="" width="200"></td>
+        <td><img src="./lib/assets/WhatsApp Image 2024-10-30 at 21.51.43_24fa96e8.jpg" alt="" width="200"></td>
+        
     <tr>
 </table>
 
