@@ -25,7 +25,7 @@ Star⭐ the repo if you like what you see😉.
         <td><img src="./lib/project.jpg" alt="" width="220"></td>
           <td><img src="./lib/assets/export.jpg" alt="" width="220"></td>
          <td><img src="./lib/assets/login.jpg" alt="" width="220"></td>
-    <tr>
+    </tr>
 </table>
  
 <table border>
