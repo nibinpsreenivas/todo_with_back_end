@@ -7,6 +7,10 @@ Developed an application to manage todos with the following capabilities:
 
 Star⭐ the repo if you like what you see😉.
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/todo_with_back_end/refs/heads/master/lib/assets/Add%20a%20subheading.png)
+
+## Export as Gist
+![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/todo_with_back_end/refs/heads/master/lib/assets/Screenshot%202024-10-30%20212857.png)
+
 ## Screenshots
     
 <table border>
