@@ -21,7 +21,8 @@ Star⭐ the repo if you like what you see😉.
         <th style="text-align:center">LOGIN</th>
     </tr>
     <tr>
-        <td><img src="./pages/HomeScreen.jpg" alt="" width="220"></td>
+        <td><img src="./lib/assets/WhatsApp Image 2024-10-30 at 21.51.43_a12e27ee.jpg
+" alt="" width="220"></td>
         <td><img src="./pages/Homescreen2.jpg" alt="" width="220"></td>
           <td><img src="./pages/story.jpg" alt="" width="220"></td>
          <td><img src="./pages/Search.jpg" alt="" width="220"></td>
