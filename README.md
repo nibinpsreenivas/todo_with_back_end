@@ -5,6 +5,8 @@ Developed an application to manage todos with the following capabilities:
 2. Manage todos within a project (Add, Edit, Update, and Mark as complete).
 3. Export the project summary as a gist on GitHub.
 
+# RELEASE APK IS FOR ANDRIOD IS PROVIDED IN GITHUB RELEASE IN THIS REPO 
+
 Star⭐ the repo if you like what you see😉.
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/todo_with_back_end/refs/heads/master/lib/assets/Add%20a%20subheading.png)
 
