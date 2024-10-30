@@ -28,16 +28,7 @@ Star⭐ the repo if you like what you see😉.
     </tr>
 </table>
  
-<table border>
-    <tr>
-        <th style="text-align:center">register</th>
-     
-    </tr>
-    <tr>
-        <td><img src="./lib/assets/reg.jpg" alt="" width="200"></td>
-        
-    </tr>
-</table>
+
 
 
 ## Features Includes:  
