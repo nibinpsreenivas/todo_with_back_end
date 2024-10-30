@@ -41,24 +41,24 @@ Star⭐ the repo if you like what you see😉.
 
 ## Features Includes:  
 
-1. ### Photo-based Search
-   🔍 Photo-Based Search: Looking for something specific? Simply upload a photo, and let our innovative search feature do the rest! Discover content like never before.
-   
-3. ### Emotional detection for post recommendation
-   😃 Emotion-Driven Reels: Experience a personalized journey every time you log in! Our dynamic video reels change based on your emotions, making every scroll session uniquely yours.
-   
-5. ### Encrypting and Decrypting the messages
-    🔐 Encrypted Messaging: Keep your conversations private with our rock-solid encryption using the trusted Caesar cipher method. Your messages stay between you and your intended recipient, safe from prying eyes.
-    
-6. ### Generative Message for chatting
-   Hey! Ready to dive into some lively conversation? Let's spark some magic with our words! 💬✨
-   
-7. ### Biometric Authentication
-   🔒 Secure Login: Say goodbye to worries about privacy breaches! With our state-of-the-art biometric authentication, like fingerprint recognition, your login is as secure as it gets.
-   
-9. ### User Privacy
-   🔏Allowing users to lock their profiles provides them with a sense of control over their online presence.
-
+1. Selected schema/representation should include:
+  a. Project: Unique Id, Title, Created Date, List of Todos.
+  b. Todo: Unique Id, Description, Status, Created Date, Updated Date.
+2. Basic Auth for user login.
+3. Home page provisions:
+a. Create a new project.
+b. List all projects.
+c. View a project.
+4. Detailed project view should include:
+a. Project title (Editable).
+b. List of todos with description, date, and completion status.
+c. Actions to Add/Update/Remove a todo.
+d. Mark a todo as pending or complete.
+e. Action to export summary as a secret gist.
+5. Application should save the exported gist file to the local system (as markdown).
+6. Adherence to proper code conventions and style guide (package, names,
+indentation, etc.).
+7. Secret gist template/format example provided.
  
 ## ✨ Requirements
 
