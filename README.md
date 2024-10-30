@@ -30,15 +30,11 @@ Star⭐ the repo if you like what you see😉.
  <table border>
     <tr>
         <th style="text-align:center">Profile</th>
-      <th style="text-align:center">Privacy</th>
-        <th style="text-align:center">Update Profile</th>
-        <th style="text-align:center">password Change</th>
+      
     </tr>
     <tr>
         <td><img src="./pages/profile2.jpg" alt="" width="200"></td>
-        <td><img src="./pages/privacy.jpg" alt="" width="200"></td>
-          <td><img src="./pages/update1.jpg" alt="" width="200"></td>
-         <td><img src="./pages/password1.jpg" alt="" width="200"></td>
+       
     <tr>
 </table>
 
